@@ -1,6 +1,6 @@
 <template>
   <div class="container my-4">
-    <router-link to="/" class="btn btn-link mb-3">Назал</router-link>
+    <router-link to="/" class="btn btn-link mb-3">Назад</router-link>
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Корзина</h5>

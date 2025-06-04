@@ -1,6 +1,6 @@
 <template>
   <div class="container my-4">
-    <router-link to="/" class="btn btn-link mb-3">Orqaga</router-link>
+    <router-link to="/" class="btn btn-link mb-3">Назад</router-link>
     <router-link to="/cart" class="btn btn-primary mb-3 ms-2">Корзина</router-link>
     <div v-if="product" class="card">
       <div class="card-body">
